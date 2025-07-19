@@ -12,6 +12,9 @@ A simple and efficient time tracking app to manage your productivity.
 - [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) package manager
 
 ---
+## 🚀 Online Demo
+
+[Live Demo](https://ticktack-timetracker.vercel.app/) -- live working application
 
 ### 📥 Installation
 
